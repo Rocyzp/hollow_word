@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\ASWorkSpace\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="D:\ASWorkSpace\MyApplication\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.0.0_038513c2ffa1f0afb66ee71c17875b8444656d8a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\ASWorkSpace\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="D:\ASWorkSpace\MyApplication\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.0.0_2c0f728f280351a180c0e7e0598ff9150e859fdb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\ASWorkSpace\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="D:\ASWorkSpace\MyApplication\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.0.0_8fe7767c80cebc1735576bf9926365c48f80154b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\ASWorkSpace\MyApplication\app\build\intermediates\exploded-aar\com.android.support\design\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26384be22ddc74cfe197ebda9edbc7d1fd8bd537">
+        <dex dex="D:\ASWorkSpace\MyApplication\app\build\intermediates\pre-dexed\debug\com.android.support-design-25.0.0_a0e00b2343dc9af0d28c906c11643a23d1edb438.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\ASWorkSpace\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="D:\ASWorkSpace\MyApplication\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.0.0_aec38b202d04d8985538ab91cf15452b9776d2ca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\ASWorkSpace\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="D:\ASWorkSpace\MyApplication\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_9b7568bdff481364b1d12e9087425d57d4bdeaf3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\ASWorkSpace\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="D:\ASWorkSpace\MyApplication\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_51a6ccbd65986dd795f033e75d9f10ef44eb471b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\ASWorkSpace\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="D:\ASWorkSpace\MyApplication\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_2d989338ec0a9f41327dfadbb6268ae0ca055a85.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\ASWorkSpace\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="D:\ASWorkSpace\MyApplication\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_05441dedafce05af54fe9ad0881a39e2b2c49292.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\ASWorkSpace\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\ASWorkSpace\MyApplication\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.0.0_3878bd2b6197718ea057229762cbdb5e71f07ec9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\ASWorkSpace\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="D:\ASWorkSpace\MyApplication\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.0.0_df5a8c7ef0ececa7ef2f23415563cdc7280a036a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\ASWorkSpace\MyApplication\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="D:\ASWorkSpace\MyApplication\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.0.0_8052806053c1c6e21d153da93a1075e298986a44.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\ASWorkSpace\MyApplication\app\libs\asmack-android-8-4.0.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8451d8474c803b6ec1748b09b6866fee84ff4f66">
+        <dex dex="D:\ASWorkSpace\MyApplication\app\build\intermediates\pre-dexed\debug\asmack-android-8-4.0.7_b509dff81c2aaa24ca65aeff77beefb91d7b15e1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\ASWorkSpace\MyApplication\app\build\intermediates\exploded-aar\com.android.support\transition\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0c6d948e6cb9ea6f535d175fb61ba2930719c0e9">
+        <dex dex="D:\ASWorkSpace\MyApplication\app\build\intermediates\pre-dexed\debug\com.android.support-transition-25.0.0_24ed85bade44cb80d3a32a602662f735d3dcd4be.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\ASWorkSpace\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="D:\ASWorkSpace\MyApplication\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_378efda9a880ca25b1fb7eee8c341de3c5ac4789.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\ASWorkSpace\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="D:\ASWorkSpace\MyApplication\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.0.0_889fe3cae89199a60f9dd25ddbd0066312ad6565.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\pc\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.0\support-annotations-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="D:\ASWorkSpace\MyApplication\app\build\intermediates\pre-dexed\debug\support-annotations-25.0.0_7b46cc388e200e53f8b2f1f9ee50d7890e2b4c47.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\ASWorkSpace\MyApplication\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="D:\ASWorkSpace\MyApplication\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.0.0_9e3619a05b99b4ada9895ead55715a4f12377a5b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\ASWorkSpace\MyApplication\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5e497d60f0cb6ce87c458ac5420a46d0fed49bd0">
+        <dex dex="D:\ASWorkSpace\MyApplication\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-25.0.0_12ec6271f9fa587a259db010645d41fabd76294d.jar" />
+    </item>
+
+</items>
